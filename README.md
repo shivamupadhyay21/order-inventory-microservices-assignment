@@ -112,7 +112,7 @@ curl --location 'http://localhost:8080/order' \
 
 ### Clone Repository
 ```bash
-https://github.com/shivamupadhyay21/order-inventory-microservices-assignment.git
+git clone https://github.com/shivamupadhyay21/order-inventory-microservices-assignment.git
 ```
 
 
